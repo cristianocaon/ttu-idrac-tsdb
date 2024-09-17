@@ -6,8 +6,8 @@ The goal of this project is to explore the creation of a Timescale database to s
 
 1. Clone the repo and 'cd' into it: 
 ```bash
-$ git clone git@github.com:cristianocaon/idrac_tsdb.git
-$ cd idrac_tsdb
+$ git clone git@github.com:cristianocaon/ttu-idrac-tsdb.git
+$ cd ttu-idrac-tsdb
 ```
 
 2. Create a virtual environment and activate it:
